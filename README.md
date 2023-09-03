@@ -3,6 +3,7 @@ Resultados obtenidos para la evaluación de la metodología METUIGA utilizando e
 
 Para la replicación de los datos se comparte documento en excel llamado "Recopilación de datos" en el se encuentran lso datos de evaluación de la metodología MeDPF que se encuentran en el artículo titulado "Metodología para el desarrollo de portales centrada en el usuario: Una evaluación empírica".
 Asimismo, se encuentran los resultados de la metodología METUIGA en sus 23 aspectos evaluados para que puedan ser replicados.
+
 ![image](https://github.com/lscrobertoramos/LatamIEEEmetuiga/assets/24528548/39577302-e694-49c1-ad69-b74088c345eb)
 
 Es importante recordar que se siguió un proceso de experimentación de ingeniería de software con las etapas de Definición, Diseño, Ejecución y Análisis. 
